@@ -13,4 +13,7 @@ Below is the table which compares the metrics of individual models used here wit
 ● Precision score of hybrid approach was the lowest with 71.8% of correctly predicted positive observations.<br/> 
 ● Recall score of hybrid approach was 68.1% . <br/>
 ● F1 score of Hybrid approach was the highest, presenting with 69.7% of harmonic mean  between precision and recall.<br/>     
-Below is the Bar graph which shows the metrics of the hybrid model.![img](https://user-images.githubusercontent.com/59058027/180402387-b6305540-4bf2-4093-bf8f-e86b0ff585c4.png)
+#### Below is the Bar graph which shows the metrics of the hybrid model.
+![slahybrid](https://user-images.githubusercontent.com/59058027/182412801-eeeb595a-22b3-4a86-bdbd-451dadef225c.png)
+#### Below is the picture which shows the confusion matrix of the hybrid model.
+![hybrid_confusion_matrixff](https://user-images.githubusercontent.com/59058027/182413087-bf4eec3c-3001-4673-addb-b8c44ec28ece.png)
